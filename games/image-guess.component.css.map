@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["src/app/game/components/image-guess.component.css"],
+  "sourcesContent": [".game-container {\n  text-align: center;\n}\n\n.image-container img {\n  width: 300px;\n  height: auto;\n  margin: 20px;\n}\n\n.guess-input input {\n  padding: 10px;\n  font-size: 16px;\n  margin-right: 10px;\n}\n\nbutton {\n  padding: 10px;\n  font-size: 16px;\n  cursor: pointer;\n}\n\n.message {\n  font-size: 18px;\n  font-weight: bold;\n  color: green;\n}\n\n.message.wrong {\n  color: #FF0000;\n}\n"],
+  "mappings": ";AAAA,CAAC;AACC,cAAY;AACd;AAEA,CAAC,gBAAgB;AACf,SAAO;AACP,UAAQ;AACR,UAAQ;AACV;AAEA,CAAC,YAAY;AACX,WAAS;AACT,aAAW;AACX,gBAAc;AAChB;AAEA;AACE,WAAS;AACT,aAAW;AACX,UAAQ;AACV;AAEA,CAAC;AACC,aAAW;AACX,eAAa;AACb,SAAO;AACT;AAEA,CANC,OAMO,CAAC;AACP,SAAO;AACT;",
+  "names": []
+}
